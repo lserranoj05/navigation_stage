@@ -156,7 +156,7 @@ def ayuda_gestos():
     new_window.geometry("620x273")  # Ajusta el tamaño según necesites
     
     # Cargar la imagen
-    img = PhotoImage(file="img/AYUDA.png")  # Reemplaza con tu ruta de imagen
+    img = PhotoImage(file="AYUDA.png")  # Reemplaza con tu ruta de imagen
     
     # Mostrar la imagen en la ventana secundaria
     label = tk.Label(new_window, image=img)
