@@ -29,7 +29,7 @@ source devel/setup.bash
 
 Para lanzar la simulación, desde la misma terminal:
 ```
-roslaunch navigation_stage mi_navigation.launch
+roslaunch navigation_stage simulacion.launch
 ```
 
 Finalmente, para lanzar la GUI desde otra terminal:
